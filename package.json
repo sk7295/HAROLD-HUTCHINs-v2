@@ -21,7 +21,7 @@
     "discord.js": "^14.14.1",
     "express": "^4.18.2",
     "fca-horizon-remake": "^0.0.1-security",
-    "fca-project-orion": "^1.1.17",
+    "fca-disme": "git+https://github.com/dongdev06/fca-disme.git",
     "form-data": "^4.0.0",
     "fs": "^0.0.1-security",
     "fs-extra": "^10.0.0",
